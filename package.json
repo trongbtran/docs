@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/mendix/docs#readme",
   "devDependencies": {
-    "autoprefixer": "^10.3.1",
-    "postcss": "^8.3.6",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
     "postcss-cli": "^8.3.1"
   }
 }
